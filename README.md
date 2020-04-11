@@ -56,11 +56,5 @@ On AWS, this job outputs one file of cluster memberships for each slave node. Th
 3. Mongodb storage for sparse TFIDF data (populate_db.py)
 4. A web app to make this easier to interact with 
 
--------
-Team:  
-James LeDoux 
-Drew Hoo   
-Aniket Saoji  
 
-Blog post: [http://jamesrledoux.com](http://jamesrledoux.com/projects/2016/11/01/gutenberg-recommender-system.html)
 
