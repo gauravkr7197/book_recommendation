@@ -1,4 +1,4 @@
-# Gutenberg
+# Book recommendation using machine learning on big data
 A Content Based Recommender using Project Gutenberg's entire database of books.
 
 This system models literary style and taste using
